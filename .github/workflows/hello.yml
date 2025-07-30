@@ -13,4 +13,4 @@ jobs:
 
     steps:
       - name: tst runner
-        run: pwd && ls
+        run: pwd && ls && mkdir new_floder
